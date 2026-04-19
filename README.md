@@ -51,19 +51,12 @@ Desenvolver uma base consistente para evolução em linguagens como Python e out
 ---
 
 ## 🔗 Contato
-
-<p align="left">
-  <a href="SEU_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gomes-6a999a3a2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.gomeng@gmail.com)
 
 ---
 
 ## 💡 Frase
 
-> "Primeiro, resolva o problema. Depois, escreva o código."  
-> — John Johnson
+> “A simplicidade é o último grau de sofisticação.” 
+> — Leonardo da Vinci 
