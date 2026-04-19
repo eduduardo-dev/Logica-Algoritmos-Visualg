@@ -30,12 +30,7 @@ O objetivo é construir uma base sólida em programação através da resoluçã
 
 ---
 
-## 🗂️ Organização
-
-
-
-
-Os exercícios estão separados por tema, permitindo acompanhar minha evolução ao longo do aprendizado.
+## Os exercícios estão separados por tema, permitindo acompanhar minha evolução ao longo do aprendizado.
 
 ---
 
